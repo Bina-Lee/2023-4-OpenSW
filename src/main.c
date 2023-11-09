@@ -2,9 +2,9 @@
 
 int main(){
     
-    foo();
+    foo(1234);
 
-    goo();
+    goo(2345);
 
     return 0;
 }
